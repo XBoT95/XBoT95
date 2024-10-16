@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @XBoT95
+- 👀 I’m interested in coding large scale projects
+- 🌱 I’m currently learning web dev
+- 💞️ I’m looking to collaborate on any project featurig webdev basics
+- 📫 How to reach me email:- nishantrmore9577@gmail.com
