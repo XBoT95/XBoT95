@@ -1,18 +1,18 @@
-- 👋 Hi, I’m @XBoT95
+👋 Hi, I’m @XBoT95
 💻 Passionate software developer | Creative problem solver
 🌐 Full-stack developer | Open-source enthusiast
 
-- 🔭 Currently working on:
+🔭 Currently working on:
 🚀 Scalable web apps
 🎮 Game development (Unreal/Roblox)
 📱 Mobile apps with sleek, modern UI
 
-- 🌱 Always learning more about:
+🌱 Always learning more about:
 ⚙️ Backend architectures
 🧠 AI & machine learning
 ☁️ Cloud services (AWS, Firebase, etc.)
 
-- 🛠️ Tech stack I enjoy:
+🛠️ Tech stack I enjoy:
 Languages: JavaScript, Python, Lua, TypeScript
 Frameworks: React, Node.js, Express, Next.js
 Tools: Git, Docker, Figma, MongoDB, Firebase
