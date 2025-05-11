@@ -1,7 +1,7 @@
 👋 Hi, I’m @XBoT95
 
 ●💻 Passionate software developer | Creative problem solver
-●🌐 Full-stack developer | Open-source enthusiast
+-🌐 Full-stack developer | Open-source enthusiast
 
 🔭 Currently working on:
 
