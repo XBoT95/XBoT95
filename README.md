@@ -1,26 +1,27 @@
- 👋 Hi, I'm Nishant (@XBoT95)
+# 👋 Hi, I'm Nishant (@XBoT95)
 
 💻 **Software Developer** passionate about building scalable apps, games, and useful tools.
 
- 🚀 Currently Working On
+## 🚀 Currently Working On
 
 * Scalable **web applications**
 * **Game development** (UE5 & Roblox)
 * **Mobile apps** with modern UI
 
- 🌱 Currently Learning
+## 🌱 Currently Learning
 
 * Backend architectures & system design
 * AI / Machine Learning fundamentals
-* Cloud platforms like **AWS** and **Firebase/Supabase**
+* Cloud platforms like **AWS** and **Firebase / Supabase**
 
- 🛠 Tech Stack
+## 🛠 Tech Stack
 
-**Languages:** JavaScript, Python, Lua, TypeScript, PHP
+**Languages:** JavaScript, TypeScript, Python, Lua, PHP
+**Web:** HTML5, CSS
 **Frameworks:** React, Node.js, Express, Next.js
-**Tools:** Git, Docker, MongoDB, Firebase/Supabase, Figma
+**Tools:** Git, Docker, MongoDB, Firebase, Supabase, Figma
 
- 🎯 Goals
+## 🎯 Goals
 
 * Build impactful software products
 * Contribute to **open-source projects**
