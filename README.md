@@ -16,11 +16,11 @@
 
 ## 🛠 Tech Stack
 
-**Languages:** JavaScript, TypeScript, Python, Lua, PHP
-**Frontend:** HTML5, CSS, React, Next.js
-**Backend:** Node.js, Express
-**Database/BaaS:** MongoDB, Firebase, Supabase
-**Tools:** Git, Docker, Figma
+* **Languages:** JavaScript, TypeScript, Python, Lua, PHP
+* **Frontend:** HTML5, CSS, React, Next.js
+* **Backend:** Node.js, Express
+* **Database/BaaS:** MongoDB, Firebase, Supabase
+* **Tools:** Git, Docker, Figma
 
 ## 🎯 Goals
 
