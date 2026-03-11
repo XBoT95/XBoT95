@@ -1,39 +1,29 @@
-👋 Hi, I’m @XBoT95
+# 👋 Hi, I'm Nishant (@XBoT95)
 
--💻 Passionate software developer | Creative problem solver
+💻 **Software Developer** passionate about building scalable apps, games, and useful tools.
 
--🌐 Full-stack developer | Open-source enthusiast
+## 🚀 Currently Working On
 
-🔭 Currently working on:
+* Scalable **web applications**
+* **Game development** (Unity / Roblox)
+* **Mobile apps** with modern UI
 
-🚀 Scalable web apps
+## 🌱 Currently Learning
 
-🎮 Game development (Unity/Roblox)
+* Backend architectures & system design
+* AI / Machine Learning fundamentals
+* Cloud platforms like **AWS** and **Firebase**
 
-📱 Mobile apps with sleek, modern UI
+## 🛠 Tech Stack
 
-🌱 Always learning more about:
+**Languages:** JavaScript, Python, Lua, TypeScript
+**Frameworks:** React, Node.js, Express, Next.js
+**Tools:** Git, Docker, MongoDB, Firebase, Figma
 
-⚙️ Backend architectures
+## 🎯 Goals
 
-🧠 AI & machine learning
+* Build impactful software products
+* Contribute to **open-source projects**
+* Continuously improve as a developer
 
-☁️ Cloud services (AWS, Firebase, etc.)
-
-🛠️ Tech stack I enjoy:
-
-Languages: JavaScript, Python, Lua, TypeScript
-
-Frameworks: React, Node.js, Express, Next.js
-
-Tools: Git, Docker, Figma, MongoDB, Firebase
-
-📈 I love building clean, intuitive, and efficient code
-📚 I document my projects and contribute to the community
-💡 I believe in learning by building
-
-🎯 Goals: Grow as a developer, contribute to open source, and ship impactful projects
-📬 Let’s connect or collaborate on something cool!
-
-
-- 📫 How to reach me email:- nishantrmore9577@gmail.com
+📫 **Contact:** [nishantrmore9577@gmail.com](mailto:nishantrmore9577@gmail.com)
