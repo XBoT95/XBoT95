@@ -5,7 +5,7 @@
 ## 🚀 Currently Working On
 
 * Scalable **web applications**
-* **Game development** (UE5 & Roblox)
+* **Game development** (UE5)
 * **Mobile apps** with modern UI
 
 ## 🌱 Currently Learning
