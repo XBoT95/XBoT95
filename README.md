@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nishant (@XBoT95)
+# 👋 Hi, I'm Nishant More (@XBoT95)
 
 💻 **Software Developer** passionate about building scalable apps, games, and useful tools.
 
